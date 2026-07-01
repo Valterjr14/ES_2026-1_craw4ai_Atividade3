@@ -90,6 +90,7 @@ Proposta priorizada para evolução da estratégia de testes, contemplando níve
 ## Vídeo de Apresentação
 
 **Link do vídeo:** 
+[Link do vídeo]https://youtu.be/IFghsHXxrFA
 
 ---
 
